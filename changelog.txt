@@ -1,0 +1,14 @@
+== version 0.1 - 2010/08/13 ==
+
++ initial version
++ added ws, wsp and wsg plugins
++ load project properties from CSV file
++ added ws_project function for project/jar dependency
+
+== version 0.2 - 2010/09/24 ==
+
++ added workspace specific build script
+
+== version 0.3 - 2010/09/27 ==
+
++ added workspace specific build script synchronization
